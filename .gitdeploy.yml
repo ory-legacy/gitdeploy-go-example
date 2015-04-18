@@ -1,0 +1,4 @@
+Procfile:
+    - web: gitdeploy-go-example
+
+Godir: github.com/ory-am/gitdeploy-go-example
